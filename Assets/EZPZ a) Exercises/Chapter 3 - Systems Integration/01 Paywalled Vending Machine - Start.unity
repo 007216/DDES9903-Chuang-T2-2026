@@ -831,10 +831,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "CHALLENGE:\n\nGet this vending machine to dispense toys ONLY if the user
-    has given it enough money. \n\nHINT: Check the EZPZ Example Scene called \"25
-    Counters & Logic\". Take a look at how those rigs are set up. Watch the tutorial
-    videos.\n"
+  m_text: "The core of the story: A data messenger, who failed to deliver a message
+    to his deceased lover three years ago, is now finally forced to make a choice.\n\nEmotional
+    arc: Curiosity \u2192 Sadness/Regret \u2192 Relief\r\n\r\nCore interaction: View
+    object \u2192 Play chip \u2192 Select keep/delete\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4085,6 +4085,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7457159944228665141, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
+      propertyPath: m_ProbeAnchor
+      value: 
+      objectReference: {fileID: 257474175525031412}
     - target: {fileID: 7457159944530478001, guid: e6333e629ba3a9e41b09e24be44ecbbc, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.817547
