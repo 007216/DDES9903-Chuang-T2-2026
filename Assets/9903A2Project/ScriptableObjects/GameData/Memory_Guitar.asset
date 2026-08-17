@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab5a1fb5fb01104a83a4980b7d3316d, type: 3}
+  m_Name: Memory_Guitar
+  m_EditorClassIdentifier: Assembly-CSharp::MemoryDataSO
+  memoryID: memory_guitar
+  memoryTitle: 
+  memoryText: 
+  memoryVoice: {fileID: 8300000, guid: 8b81337fe9861c847bcff4cfa8eb9f65, type: 3}
+  memoryLightColor: {r: 1, g: 0.6666667, b: 0.26666668, a: 1}
+  memoryLightIntensity: 1
+  isFound: 0
